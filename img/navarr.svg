@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="11" viewBox="0 0 18 11">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #b7b7b7;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="navarr.svg" class="cls-1" d="M1346.37,627.533l-6.89,6.846a2.135,2.135,0,0,1-2.98,0l-6.9-6.846a2.075,2.075,0,0,1,0-2.934,2.107,2.107,0,0,1,2.96,0l5.43,5.393,5.43-5.393a2.094,2.094,0,0,1,2.95,0A2.057,2.057,0,0,1,1346.37,627.533Z" transform="translate(-1329 -624)"/>
+</svg>
